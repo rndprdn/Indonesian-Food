@@ -7,7 +7,7 @@ Thanks to [Kipas Angin](https://www.facebook.com/fislya.andrew.3)
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd indonesia-food
+$ cd indonesian-food
 $ npm install
 $ npm run dev
 ```
